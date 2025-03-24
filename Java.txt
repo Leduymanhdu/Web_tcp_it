@@ -1,0 +1,4 @@
+java vừa là môi trường thông dịch vừa là môi trường biên dịch
+File.java
+    |    JDK (Compiler)
+ByteCode -> JVM -> HardWare 
